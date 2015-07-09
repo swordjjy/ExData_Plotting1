@@ -1,4 +1,4 @@
-##Loading Data
+##Load Data
 setwd("C:/Users/Joker/ExData_plotting1")
 filename <- "household_power_consumption.txt"
 data <- read.table(filename,
